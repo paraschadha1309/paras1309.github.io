@@ -1,13 +1,13 @@
 html	{
 background-color: #6699CC;
-background-image:url(../Images/bg1.jpg);
+background-image:url(bg1.jpg);
 background-attachment: fixed;
 }
 body {
 font-family: Verdana, Arial, Helvetica, sans-serif;
 font-size: 100%;
 width: 1350px;
-background-image:url(../Images/bg1.jpg);
+background-image:url(bg1.jpg);
 
 /*background-color: #6699CC;*/
 margin: 0;
